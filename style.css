@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif !important;
+}
+body {
+  background-color: #346baf;
+}
+
+.blue {
+  color: #1472ff !important;
+}
+.gray {
+  color: #d9d9d9 !important;
+}
+
+li {
+  list-style: none !important;
+}
+
+.navbar .nav-link {
+  font-size: 14px !important;
+  padding: 10px 30px 10px 30px;
+}
+.navbar .nav-link:hover {
+  background-color: #2a2c3369;
+}
+.contact-btn {
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  border: 2px solid #1472ff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.bg {
+  background-image: url(img/background.png);
+  min-height: 125vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.social span {
+  padding: 10px;
+}
+
+.text {
+  padding-top: 35vh;
+  text-align: justify;
+}
+.box-s{
+  box-shadow: 1px 1px 5px 1px white;
+}
+.foto{
+  border-radius: 50em;
+  box-shadow: #1472ff 2px 2px 45px 3px;
+  max-width: 40%;
+  height: 50%;
+}
+.card{
+  background-color: #1b1f24;
+  min-width: 100px;
+  max-height: 500px;
+  margin-bottom: 50px;
+  box-shadow: 1px 1px 5px 1px white;
+}
+.card img{
+  max-width: 100px;
+}
+.ayam img{
+  max-width: 100%;
+}
+.bg-r{
+  background-color: #292929;
+}
+
+.msrin{
+  margin-top: 100px;
+}
+.bor{
+  border: 2px solid aqua;
+}
